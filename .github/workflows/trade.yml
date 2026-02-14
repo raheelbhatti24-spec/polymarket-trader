@@ -1,5 +1,5 @@
 name: Trading Bot
-
+ 
 on:
   schedule:
     - cron: '*/15 * * * *'
