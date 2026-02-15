@@ -1,1 +1,8 @@
-{}
+{
+  "0xabcdef1234567890": {
+    "entry_price": 0.3985,
+    "entry_time": "2026-02-15T09:54:16.028515",
+    "question": "Will Ethereum close above $2,500 today?",
+    "shares": 25.09410288582183
+  }
+}
