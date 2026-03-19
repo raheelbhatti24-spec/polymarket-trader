@@ -508,5 +508,14 @@
     "entry_price": 0.3571,
     "entry_time": "2026-03-19T10:01:37.994927",
     "status": "open"
+  },
+  {
+    "trade_id": 44,
+    "condition_id": "0xabcdef1234567890",
+    "question": "Will Ethereum close above $2,500 today?",
+    "action": "BUY",
+    "entry_price": 0.2587,
+    "entry_time": "2026-03-19T17:42:37.544072",
+    "status": "open"
   }
 ]
