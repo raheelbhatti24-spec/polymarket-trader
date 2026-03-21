@@ -559,5 +559,23 @@
     "entry_price": 0.3695,
     "entry_time": "2026-03-20T18:27:02.515678",
     "status": "open"
+  },
+  {
+    "trade_id": 48,
+    "condition_id": "0xabcdef1234567890",
+    "question": "Will Ethereum close above $2,500 today?",
+    "action": "BUY",
+    "entry_price": 0.3309,
+    "entry_time": "2026-03-21T11:36:25.644139",
+    "status": "open"
+  },
+  {
+    "trade_id": 49,
+    "condition_id": "0x9876543210fedcba",
+    "question": "Will Solana close above $100 today?",
+    "action": "BUY",
+    "entry_price": 0.3911,
+    "entry_time": "2026-03-21T11:36:25.644154",
+    "status": "open"
   }
 ]
