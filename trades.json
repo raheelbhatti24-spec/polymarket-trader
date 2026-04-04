@@ -975,6 +975,18 @@
     "action": "BUY",
     "entry_price": 0.3962,
     "entry_time": "2026-04-04T10:18:36.693364",
+    "status": "closed",
+    "exit_price": 0.661,
+    "exit_time": "2026-04-04T14:20:52.996996",
+    "pnl": 6.68
+  },
+  {
+    "trade_id": 83,
+    "condition_id": "0x1234567890abcdef",
+    "question": "Will Bitcoin close above $45,000 today?",
+    "action": "BUY",
+    "entry_price": 0.2219,
+    "entry_time": "2026-04-04T14:20:52.996981",
     "status": "open"
   }
 ]
