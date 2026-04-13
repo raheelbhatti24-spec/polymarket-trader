@@ -10,5 +10,11 @@
     "entry_time": "2026-04-12T19:59:15.305894",
     "question": "Will Solana close above $100 today?",
     "shares": 25.523226135783563
+  },
+  "0xabcdef1234567890": {
+    "entry_price": 0.3407,
+    "entry_time": "2026-04-13T17:08:12.900746",
+    "question": "Will Ethereum close above $2,500 today?",
+    "shares": 29.3513354857646
   }
 }
