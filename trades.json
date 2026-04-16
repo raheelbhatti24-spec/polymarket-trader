@@ -1299,7 +1299,10 @@
     "action": "BUY",
     "entry_price": 0.3287,
     "entry_time": "2026-04-16T14:58:39.841479",
-    "status": "open"
+    "status": "closed",
+    "exit_price": 0.662,
+    "exit_time": "2026-04-16T20:32:52.646297",
+    "pnl": 10.14
   },
   {
     "trade_id": 110,
