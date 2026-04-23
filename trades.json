@@ -1464,6 +1464,9 @@
     "action": "BUY",
     "entry_price": 0.313,
     "entry_time": "2026-04-23T14:35:37.385250",
-    "status": "open"
+    "status": "closed",
+    "exit_price": 0.6335,
+    "exit_time": "2026-04-23T22:26:51.350614",
+    "pnl": 10.24
   }
 ]
