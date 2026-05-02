@@ -1,1 +1,8 @@
-{}
+{
+  "0x9876543210fedcba": {
+    "entry_price": 0.3678,
+    "entry_time": "2026-05-02T00:06:55.174729",
+    "question": "Will Solana close above $100 today?",
+    "shares": 27.18868950516585
+  }
+}
