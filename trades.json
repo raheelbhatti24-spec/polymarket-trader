@@ -1747,5 +1747,23 @@
     "exit_price": 0.6628,
     "exit_time": "2026-05-08T08:09:37.019233",
     "pnl": 8.63
+  },
+  {
+    "trade_id": 147,
+    "condition_id": "0x1234567890abcdef",
+    "question": "Will Bitcoin close above $45,000 today?",
+    "action": "BUY",
+    "entry_price": 0.3606,
+    "entry_time": "2026-05-08T14:53:39.102710",
+    "status": "open"
+  },
+  {
+    "trade_id": 148,
+    "condition_id": "0x9876543210fedcba",
+    "question": "Will Solana close above $100 today?",
+    "action": "BUY",
+    "entry_price": 0.1955,
+    "entry_time": "2026-05-08T14:53:39.102726",
+    "status": "open"
   }
 ]
