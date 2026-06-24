@@ -2308,5 +2308,14 @@
     "entry_price": 0.3438,
     "entry_time": "2026-06-22T22:56:38.060300",
     "status": "open"
+  },
+  {
+    "trade_id": 194,
+    "condition_id": "0x1234567890abcdef",
+    "question": "Will Bitcoin close above $45,000 today?",
+    "action": "BUY",
+    "entry_price": 0.2787,
+    "entry_time": "2026-06-24T17:20:40.194200",
+    "status": "open"
   }
 ]
