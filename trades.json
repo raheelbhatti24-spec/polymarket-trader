@@ -2403,7 +2403,10 @@
     "action": "BUY",
     "entry_price": 0.3665,
     "entry_time": "2026-07-01T23:44:02.435843",
-    "status": "open"
+    "status": "closed",
+    "exit_price": 0.6185,
+    "exit_time": "2026-07-03T19:50:03.183212",
+    "pnl": 6.88
   },
   {
     "trade_id": 202,
