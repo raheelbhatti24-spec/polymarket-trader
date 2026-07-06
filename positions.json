@@ -4,5 +4,11 @@
     "entry_time": "2026-07-03T03:38:00.273046",
     "question": "Will Ethereum close above $2,500 today?",
     "shares": 41.050903119868636
+  },
+  "0x1234567890abcdef": {
+    "entry_price": 0.2881,
+    "entry_time": "2026-07-06T23:11:55.762479",
+    "question": "Will Bitcoin close above $45,000 today?",
+    "shares": 34.71017007983339
   }
 }
