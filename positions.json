@@ -5,10 +5,10 @@
     "question": "Will Bitcoin close above $45,000 today?",
     "shares": 27.824151363383418
   },
-  "0xabcdef1234567890": {
-    "entry_price": 0.3793,
-    "entry_time": "2026-07-19T09:27:36.888049",
-    "question": "Will Ethereum close above $2,500 today?",
-    "shares": 26.364355391510674
+  "0x9876543210fedcba": {
+    "entry_price": 0.3102,
+    "entry_time": "2026-07-19T10:55:27.078525",
+    "question": "Will Solana close above $100 today?",
+    "shares": 32.23726627981947
   }
 }
