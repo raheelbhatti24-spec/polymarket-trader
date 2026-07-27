@@ -1,10 +1,4 @@
 {
-  "0x1234567890abcdef": {
-    "entry_price": 0.3972,
-    "entry_time": "2026-07-22T16:47:56.922572",
-    "question": "Will Bitcoin close above $45,000 today?",
-    "shares": 25.17623363544814
-  },
   "0xabcdef1234567890": {
     "entry_price": 0.3753,
     "entry_time": "2026-07-23T07:19:51.734753",
