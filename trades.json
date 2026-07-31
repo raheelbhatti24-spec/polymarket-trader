@@ -2848,5 +2848,14 @@
     "exit_price": 0.7614,
     "exit_time": "2026-07-31T10:17:35.415329",
     "pnl": 10.13
+  },
+  {
+    "trade_id": 239,
+    "condition_id": "0x9876543210fedcba",
+    "question": "Will Solana close above $100 today?",
+    "action": "BUY",
+    "entry_price": 0.2637,
+    "entry_time": "2026-07-31T12:27:08.279556",
+    "status": "open"
   }
 ]
