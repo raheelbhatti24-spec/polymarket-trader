@@ -3244,5 +3244,14 @@
     "exit_price": 0.6298,
     "exit_time": "2026-08-15T13:52:16.218275",
     "pnl": 8.61
+  },
+  {
+    "trade_id": 272,
+    "condition_id": "0xabcdef1234567890",
+    "question": "Will Ethereum close above $2,500 today?",
+    "action": "BUY",
+    "entry_price": 0.3142,
+    "entry_time": "2026-08-15T14:25:53.021387",
+    "status": "open"
   }
 ]
