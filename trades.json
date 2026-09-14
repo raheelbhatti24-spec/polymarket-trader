@@ -3823,5 +3823,14 @@
     "exit_price": 0.7103,
     "exit_time": "2026-09-14T01:06:49.176391",
     "pnl": 11.2
+  },
+  {
+    "trade_id": 320,
+    "condition_id": "0x1234567890abcdef",
+    "question": "Will Bitcoin close above $45,000 today?",
+    "action": "BUY",
+    "entry_price": 0.3957,
+    "entry_time": "2026-09-14T06:18:59.607341",
+    "status": "open"
   }
 ]
