@@ -10,11 +10,5 @@
     "entry_time": "2026-09-14T06:18:59.607341",
     "question": "Will Bitcoin close above $45,000 today?",
     "shares": 25.271670457417237
-  },
-  "0x9876543210fedcba": {
-    "entry_price": 0.3125,
-    "entry_time": "2026-09-16T05:08:05.822361",
-    "question": "Will Solana close above $100 today?",
-    "shares": 32.0
   }
 }
