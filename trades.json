@@ -3915,7 +3915,10 @@
     "action": "BUY",
     "entry_price": 0.3641,
     "entry_time": "2026-09-22T12:48:01.734548",
-    "status": "open"
+    "status": "closed",
+    "exit_price": 0.6522,
+    "exit_time": "2026-09-27T01:40:13.777946",
+    "pnl": 7.91
   },
   {
     "trade_id": 328,
