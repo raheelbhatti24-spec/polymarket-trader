@@ -3834,7 +3834,10 @@
     "action": "BUY",
     "entry_price": 0.3957,
     "entry_time": "2026-09-14T06:18:59.607341",
-    "status": "open"
+    "status": "closed",
+    "exit_price": 0.6432,
+    "exit_time": "2026-10-01T13:55:36.088206",
+    "pnl": 6.25
   },
   {
     "trade_id": 321,
