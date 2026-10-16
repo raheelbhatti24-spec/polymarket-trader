@@ -4023,7 +4023,10 @@
     "action": "BUY",
     "entry_price": 0.3376,
     "entry_time": "2026-10-10T02:10:46.171300",
-    "status": "open"
+    "status": "closed",
+    "exit_price": 0.6738,
+    "exit_time": "2026-10-16T05:36:10.701041",
+    "pnl": 9.96
   },
   {
     "trade_id": 337,
