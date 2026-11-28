@@ -4228,5 +4228,14 @@
     "entry_price": 0.2539,
     "entry_time": "2026-11-17T11:39:06.025447",
     "status": "open"
+  },
+  {
+    "trade_id": 354,
+    "condition_id": "0x9876543210fedcba",
+    "question": "Will Solana close above $100 today?",
+    "action": "BUY",
+    "entry_price": 0.3832,
+    "entry_time": "2026-11-28T20:56:09.760221",
+    "status": "open"
   }
 ]
